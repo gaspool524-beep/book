@@ -135,6 +135,14 @@ body {
   transform: rotate(10deg);
 }
 
+#start{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+}
+
 /* interior pages styles */
 #page1 .front {
   font-size:3vh;
